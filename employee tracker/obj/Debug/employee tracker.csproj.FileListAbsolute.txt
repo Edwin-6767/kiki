@@ -1,0 +1,7 @@
+C:\Users\kevin\source\repos\employee tracker\employee tracker\bin\Debug\employee tracker.exe.config
+C:\Users\kevin\source\repos\employee tracker\employee tracker\bin\Debug\employee tracker.exe
+C:\Users\kevin\source\repos\employee tracker\employee tracker\bin\Debug\employee tracker.pdb
+C:\Users\kevin\source\repos\employee tracker\employee tracker\obj\Debug\employee tracker.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\employee tracker\employee tracker\obj\Debug\employee tracker.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\employee tracker\employee tracker\obj\Debug\employee tracker.exe
+C:\Users\kevin\source\repos\employee tracker\employee tracker\obj\Debug\employee tracker.pdb
