@@ -142,7 +142,7 @@ namespace employee_tracker
                         Console.WriteLine("Hi User\nYour Online service is sheduled for today(" + date + ")");
                         break;
                     case 2:
-                        Console.WriteLine("Hi User\nYour Online service is sheduled for tommorow(" + DateTime.Today.AddDays(1) + ")");
+                        Console.WriteLine("Hi User\ Online service is sheduled for tommorow(" + DateTime.Today.AddDays(1) + ")");
                         break;
 
 
